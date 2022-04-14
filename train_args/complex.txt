@@ -1,0 +1,7 @@
+--tokenizer_dir=tokenizers/complex_encoding
+--dataset_file=datasets/song_list.csv
+--model_name=complex
+--num_train_epochs=20
+--batch_size=8
+--steps_count=10000
+--lr=0.0001
